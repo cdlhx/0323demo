@@ -1,0 +1,16 @@
+demo/Intermediate/
+demo/DerivedDataCache/
+demo/Saved/
+demo/Platforms/
+demo/Binaries/
+demo/.vs/
+demo/.idea/
+demo/.vsconfig
+demo2/Intermediate/
+demo2/DerivedDataCache/
+demo2/Saved/
+demo2/Platforms/
+demo2/Binaries/
+demo2/.vs/
+demo2/.idea/
+demo2/.vsconfig
