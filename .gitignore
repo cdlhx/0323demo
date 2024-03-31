@@ -1,11 +1,3 @@
-Violent/Intermediate/
-Violent/DerivedDataCache/
-Violent/Saved/
-Violent/Platforms/
-Violent/Binaries/
-Violent/.vs/
-Violent/.idea/
-Violent/.vsconfig
 demo2/Intermediate/
 demo2/DerivedDataCache/
 demo2/Saved/
@@ -14,3 +6,11 @@ demo2/Binaries/
 demo2/.vs/
 demo2/.idea/
 demo2/.vsconfig
+Violent/Intermediate/
+Violent/DerivedDataCache/
+Violent/Saved/
+Violent/Platforms/
+Violent/Binaries/
+Violent/.vs/
+Violent/.idea/
+Violent/.vsconfig
